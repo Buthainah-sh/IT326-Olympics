@@ -7,5 +7,5 @@ Students working on this project:
 -Shahad Homoud
 
 Project Motivation: 
-We aim to use the Summer Olympic Medals dataset to analyze and classify athletes' performances. We will develop a predictive model to estimate their likelihood of winning Gold, Silver, Bronze medals, or not winning at all. This project enhances athletic performance and supports the understanding of factors influencing success.
+We aim to use the Summer Olympic Medals dataset to analyze and classify athletes' performances. We will develop a predictive model to estimate their likelihood of winning Gold, Silver, Bronze medals, or not winning at all. This project enhances athletic performance and supports the understanding of factors influencing success. Let’s embark on this journey to explore the world of sports data!
 
